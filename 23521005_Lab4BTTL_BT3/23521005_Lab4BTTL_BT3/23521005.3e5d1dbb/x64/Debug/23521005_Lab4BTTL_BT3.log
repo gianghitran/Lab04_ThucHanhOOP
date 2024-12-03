@@ -1,0 +1,41 @@
+﻿  bo.cpp
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\GiaSuc.h(4,9): error C3646: 'loai': unknown override specifier
+  (compiling source file 'bo.cpp')
+  
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\GiaSuc.h(4,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'bo.cpp')
+  
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\GiaSuc.h(10,35): error C2061: syntax error: identifier 'string'
+  (compiling source file 'bo.cpp')
+  
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\bo.h(11,4): error C2548: 'bo::bo': missing default argument for parameter 3
+  (compiling source file 'bo.cpp')
+  
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\bo.cpp(14,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GiaSuc.cpp
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\GiaSuc.h(4,9): error C3646: 'loai': unknown override specifier
+  (compiling source file 'GiaSuc.cpp')
+  
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\GiaSuc.h(4,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'GiaSuc.cpp')
+  
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\GiaSuc.h(10,35): error C2061: syntax error: identifier 'string'
+  (compiling source file 'GiaSuc.cpp')
+  
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\GiaSuc.cpp(5,20): error C2614: 'GiaSuc': illegal member initialization: 'loai' is not a base or member
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\GiaSuc.cpp(7,9): error C2511: 'GiaSuc::GiaSuc(int,bool,std::string,float)': overloaded member function not found in 'GiaSuc'
+      D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\GiaSuc.h(2,7):
+      see declaration of 'GiaSuc'
+  
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\GiaSuc.cpp(8,2): error C2059: syntax error: ':'
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\GiaSuc.cpp(8,55): error C2143: syntax error: missing ';' before '{'
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\GiaSuc.cpp(10,14): error C2601: 'GiaSuc::Nhap': local function definitions are illegal
+      D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\GiaSuc.cpp(7,70):
+      this line contains a '{' which has not yet been matched
+  
+  Generating Code...
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\GiaSuc.cpp(30,14): error C2601: 'GiaSuc::Xuat': local function definitions are illegal
+      D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\GiaSuc.cpp(7,70):
+      this line contains a '{' which has not yet been matched
+  
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\GiaSuc.cpp(7,70): error C1075: '{': no matching token found

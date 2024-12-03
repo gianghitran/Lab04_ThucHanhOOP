@@ -1,0 +1,10 @@
+﻿  GiaSuc.cpp
+  bo.cpp
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\bo.cpp(15,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  cuu.cpp
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\cuu.cpp(15,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  de.cpp
+D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\23521005_Lab4BTTL_BT3\de.cpp(15,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  23521005_Lab4BTTL_BT3.vcxproj -> D:\Documents\Nam2\OOP\TH_OOP\Lab4\23521005_Lab4BTTL_BT3\x64\Debug\23521005_Lab4BTTL_BT3.exe
